@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo Implicit Intents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnWeb">Webbrowser NMCT.BE</string>
+    <string name="btnCall">Make Call</string>
+    <string name="btnDial">Dial Number</string>
+    <string name="btnGeo">Geolocation</string>
+    <string name="btnContact">Contacts</string>
+    <string name="btnEdit">Edit First Contact</string>
+    <string name="btnCalculate">Calculate BMI</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="txtLocationHeader">Location</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="btnLocatie">Toon Locatie</string>
+
+</resources>
